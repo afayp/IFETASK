@@ -1,0 +1,44 @@
+body{
+  padding: 20px;
+  font-family: "微软雅黑";
+  font-size: 15px;
+}
+
+.wrapper{
+	padding: 20px;
+	background: #eee;
+	border: 1px solid #999;
+	overflow: auto;
+}
+
+.left img{
+	float: left;
+}
+
+img{
+	width: 80px;
+	height: 80px;
+	margin: 20px;
+	border: 1px solid #999;
+}
+
+.left{
+	width: 200px;
+	background: white;
+	border: 1px solid #999;
+	float: left;
+}
+
+.right{
+	width: 120px;
+	float: right;
+	background: white;
+	border: 1px solid #999;
+}
+
+.center{
+	background: white;
+	padding: 20px;
+	margin: 0px 200px 0px 250px;
+	border: 1px solid #999;
+}
