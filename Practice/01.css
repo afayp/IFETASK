@@ -1,0 +1,13 @@
+.wrapper{
+	border: 5px solid red;
+	overflow: hidden;
+}
+
+.box1,.box3,.box2{
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	background-color: green;
+}
+

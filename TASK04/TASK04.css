@@ -1,0 +1,16 @@
+.box-set{
+	background: #e8eae0;
+}
+
+.box{
+	background: #8ec63f;
+	height: 100px;
+	float: left;
+	margin: 10px;
+	width: 200px;
+}
+
+br{
+	clear: both;
+
+}

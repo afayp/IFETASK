@@ -1,0 +1,55 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body
+{font: 12px 'Microsoft YaHei',Helvetica,Arial;}
+
+.wrapper{
+	width: 980px;
+	height: 1386px;
+	margin: 0 auto;
+	padding: 10px
+}
+
+.header{
+	border-bottom: 2px solid #999;
+	position: relative;
+	overflow: hidden;
+}
+
+.header a{
+	display: inline-block;
+	width:110px; 
+	height:80px; 
+	background:#d45d5c; 
+	color:#fff; 
+	line-height:80px;
+	text-decoration: none;
+	padding-left: 10px;
+	vertical-align: bottom;
+}
+.header span{
+	position: absolute;
+	right: 0;
+	bottom: 10px;
+}
+
+
+
+
+
+
+
+
+.footer{
+	border-top: 2px solid #999;
+	overflow: auto;
+}
+
+.footer span{
+	float: right;
+	color: red;
+}
+
+
